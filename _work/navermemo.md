@@ -13,6 +13,7 @@ published:        ture
 layout:           post
 ---
 
+
 <div class="post-content-grid">
   <div class="post-content-column column-1">
     <img class="post-content-screen desktop" src="{{ site.baseurl }}/img/work/navermemo/01.jpg" />
