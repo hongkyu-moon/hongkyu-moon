@@ -1,5 +1,5 @@
 ---
-date:             2018-10-10 00:00:00
+date:             2021-01-10 00:00:00
 title:            "Plazma soap"
 class:            babysalt
 description:      "Package design | Print design | Product photography"
