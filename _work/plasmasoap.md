@@ -1,6 +1,6 @@
 ---
 date:             2021-01-10 00:00:00
-title:            "Plazma soap"
+title:            "Plasma soap"
 class:            babysalt
 description:      "Package design | Print design | Product photography"
 color:            "#fafafa"
